@@ -6,7 +6,7 @@ SaaS learning platform can help B2B or B2C organization to quickly create beauti
 
 In this project, I used 10M+ clickstream data for a SaaS learning platform. This data contains sequence of events created by the users and tracks the users’ click path when they are using the platform. But none of this data are labelled. Since outcome of this project will be used to guide important decisions, I would like build something explainable. I decided to go with Markov model.
 
- <img src='https://github.com/chengfangzhou20/chengfangzhou20.github.io/anomaly.png'>
+ <img src='https://github.com/chengfangzhou20/github.io/anomaly.png'>
  
 The Markov model is assumed that future states depend only on the current state, not on the events that occurred before it. Using the Markov model, I can derive the transition probability matrix from the users’ click stream data. Here I am showing you the Markov chain to help you visualize the transition probability matrix. For example, if a user lands on P0, there is 27% of chance that the user is going to transit to P1 for the next step.
 
