@@ -12,6 +12,8 @@ The Markov model is assumed that future states depend only on the current state,
 
 ### Define anomaly score
 
+How to use the transition probability matrix to detect anomaly? I’m giving an example here. Here is a random session that has 4 events. I can use the transition probability matrix to assign the probability between events. For example, from event 1 to event 2, the transition probability is 0.2, from 2 to 3 is 0.1, from 3 to 4 is 0.05. If the average transition probability of a path is extremely low which means this click path is really rare and that could indicate the user is confused or lost on the platform. Thus, I define the anomaly score as one minus the average path probability and high anomaly score indicates high probability of user struggle/confusion.
+
 <img src='anomaly.PNG'>
 
 
