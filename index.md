@@ -1,8 +1,6 @@
 ## Detect user struggle for SaaS e-learning platform
 
-You can use the [editor on GitHub](https://github.com/chengfangzhou20/chengfangzhou20.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SaaS learning platform can help B2B or B2C organization to quickly create beautiful learning site for all device with no coding necessary. This kind of platform also offers tons of features that drive high engagement, learner proficiency, and retentions rate which will make your e-learning site more creative and powerful than the traditional ones.But with all these flexiblity, the platform can be very complex for new users and users can often get confused or lost. To solve this problem, the company would have to provide a lot of trainings to get their user familiar with their platform. In this case, find where the user struggle is extremely important to guide their training focus areas.
 
 ### Markdown
 
