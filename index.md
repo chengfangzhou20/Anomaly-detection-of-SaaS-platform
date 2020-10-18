@@ -18,6 +18,8 @@ How to use the transition probability matrix to detect anomaly? I’m giving an 
 
 ### Validation by support tickets
 
+There are 24 topics for the pages in the platform. Here I’m showing you the topics with the most anomaly detected by the model. They are content, panorama, reporting and users/learners. Similarly, the topics gets most number of support tickets are also content, panorama, reporting, user/learners. Even though it is not a perfect match between these two distribution but this model captures the main trend of user struggle.
+
 <img src='valid.PNG'>
 
 
