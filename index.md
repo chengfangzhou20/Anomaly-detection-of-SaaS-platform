@@ -1,8 +1,8 @@
 ## Detect user struggle for SaaS e-learning platform
 
-SaaS learning platform can help B2B or B2C organization to quickly create beautiful learning site for all device with no coding necessary. This kind of platform also offers tons of features that drive high engagement, learner proficiency, and retentions rate which will make your e-learning site more creative and powerful than the traditional ones.But with all these flexiblity, the platform can be very complex for new users and users can often get confused or lost. To solve this problem, the company would have to provide a lot of trainings to get their user familiar with their platform. In this case, find where the user struggle is extremely important to guide their training focus areas.
+SaaS learning platform can help B2B or B2C organization to quickly create beautiful learning site for all device with no coding necessary. This kind of platform also offers tons of features that drive high engagement, learner proficiency, and retentions rate which will make your e-learning site more creative and powerful than the traditional ones.But with all these flexiblity, the platform can be very complex for new users and users can often get confused or lost. To solve this problem, the company would have to provide a lot of trainings to get their user familiar with their platform. In this case, **find where the user struggle is extremely important to guide their training focus areas.**
 
-### Markdown
+### Markov Model: derive transition probability matrix from the clickstream data
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
