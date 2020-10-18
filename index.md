@@ -10,9 +10,10 @@ In this project, I used 10M+ clickstream data for a SaaS learning platform. This
  
 The Markov model is assumed that future states depend only on the current state, not on the events that occurred before it. Using the Markov model, I can derive the transition probability matrix from the users’ click stream data. Here I am showing you the Markov chain to help you visualize the transition probability matrix. For example, if a user lands on P0, there is 27% of chance that the user is going to transit to P1 for the next step.
 
+### Define anomaly score
 
-```markdown
-Syntax highlighted code block
+<img src='anomaly.PNG'>
+
 
 # Header 1
 ## Header 2
