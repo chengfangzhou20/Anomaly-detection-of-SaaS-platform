@@ -22,10 +22,7 @@ There are 24 topics for the pages in the platform. Here I’m showing you the to
 
 <img src='valid.PNG'>
 
+### Outcome
 
+The outcome of this project is a real-time dashboard that monitors the user struggle in each topic and show the high risk pages. With this dashboard, the company can constantly improve their platform based on real-time feedback and increase their user retention. In future, this dashboard could also be applied their clients’ learning site and help their clients to design user-centered e-learning website. This will be a game changing movement in the e-learning industries and will help the company to beat their competitors and take over the majority of market share.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengfangzhou20/chengfangzhou20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
